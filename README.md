@@ -1,2 +1,2 @@
 # TwitchChatSorter
-Python Twitch Chat Downloader and Filter: Download, Filter, and Organize Twitch VOD Chats with Ease
+This Python application lets you download and filter Twitch VOD chat logs. It supports inputting a VOD URL, filtering messages by usernames, and adjusting timestamps. The program uses a CLI tool to download chat logs, processes them to filter specified usernames, and saves the filtered messages to a text file.
